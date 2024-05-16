@@ -5,7 +5,7 @@ Team number:
 
 Team members:
 
-Roghieh Farajialamooti
-Ghazaleh Hadiyan
-Tural Hasanov
+Roghieh Farajialamooti,
+Ghazaleh Hadiyan,
+Tural Hasanov,
 Gökcer Sönmezocak
